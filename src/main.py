@@ -80,7 +80,6 @@ def send_reminders_option():
     
 def run_scheduler_in_background(manager):
     """Run the scheduler in a background thread."""
-    students = manager.get_students()
     schedule_reminders(
             students_manager=manager,
             reminder_generator=generate_reminder,
