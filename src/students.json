@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Alice Johnson",
+        "email": "alijoh@student.oslomet.no",
+        "course": "ACIT4420 - Problem Solving and Scripting",
+        "preferred_time": "08:00"
+    },
+    {
+        "name": "Bob Smith",
+        "email": "bobsmi@student.oslomet.no",
+        "course": "ACIT4420 - Problem Solving and Scripting",
+        "preferred_time": "10:00"
+    },
+    {
+        "name": "Carol Williams",
+        "email": "carwill@student.oslomet.no",
+        "course": "ACIT4420 - Problem Solving and Scripting",
+        "preferred_time": "14:00"
+    },
+    {
+        "name": "David Brown",
+        "email": "davbro@student.oslomet.no",
+        "course": "ACIT4420 - Problem Solving and Scripting",
+        "preferred_time": "09:00"
+    },
+    {
+        "name": "Emma Davis",
+        "email": "emmvis@student.oslomet.no",
+        "course": "ACIT4420 - Problem Solving and Scripting",
+        "preferred_time": "11:00"
+    },
+    {
+        "name": "Erlen Myrilsen",
+        "email": "erlmyr@sample.no",
+        "course": "Tysk",
+        "preferred_time": "17:00"
+    },
+    {
+        "name": "jorgen Matsen",
+        "email": "jormat@sample.no",
+        "course": "History of kamras",
+        "preferred_time": "06:00"
+    },
+    {
+        "name": "Witney justine",
+        "email": "witjus@samle.no",
+        "course": "Political sciences",
+        "preferred_time": "10:49"
+    },
+    {
+        "name": "hauk Monsen",
+        "email": "haumon@sample.no",
+        "course": "Logistics",
+        "preferred_time": "11:01"
+    },
+    {
+        "name": "karl konrd",
+        "email": "karkon@gmail.com",
+        "course": "Kongelig Hostorie",
+        "preferred_time": "11:28"
+    },
+    {
+        "name": "hakon",
+        "email": "hakon@hakon.no",
+        "course": "statistcs",
+        "preferred_time": "16:11"
+    },
+    {
+        "name": "gan",
+        "email": "gan@gan.no",
+        "course": "tec101",
+        "preferred_time": "16:23"
+    },
+    {
+        "name": "Mika Liam",
+        "email": "liam@liam.no",
+        "course": "biology",
+        "preferred_time": "17:54"
+    }
+]

@@ -1,0 +1,48 @@
+2025-10-10 17:44:30.367205 - Sent to Alice Johnson: Hi Alice Johnson, remember to review ACIT4420 - Problem Solving and Scripting materials before the deadline!
+
+2025-10-10 17:44:30.367608 - Sent to Bob Smith: Hi Bob Smith, remember to review ACIT4420 - Problem Solving and Scripting materials before the deadline!
+
+2025-10-10 17:44:30.367909 - Sent to Carol Williams: Hi Carol Williams, remember to review ACIT4420 - Problem Solving and Scripting materials before the deadline!
+
+2025-10-10 17:44:30.368173 - Sent to David Brown: Hi David Brown, remember to review ACIT4420 - Problem Solving and Scripting materials before the deadline!
+
+2025-10-10 17:44:30.368428 - Sent to Emma Davis: Hi Emma Davis, remember to review ACIT4420 - Problem Solving and Scripting materials before the deadline!
+
+2025-10-10 17:44:30.368693 - Sent to Erlen Myrilsen: Hi Erlen Myrilsen, remember to review Tysk materials before the deadline!
+
+2025-10-10 17:44:30.368940 - Sent to Jørn Matsen: Hi Jørn Matsen, remember to review History of kamras materials before the deadline!
+
+2025-10-10 19:15:28.935975 - Sent to Maud H: Hi Maud H, remember to review ethical interactions materials before the deadline!
+
+2025-10-11 11:00:07.112133 - Sent to Emma Davis: Hi Emma Davis, remember to review ACIT4420 - Problem Solving and Scripting materials before the deadline!
+
+2025-10-11 16:11:33.197086 - Sent to hakon: Hi hakon, remember to review statistcs materials before the deadline!
+
+2025-10-11 16:42:55.924795 - Sent to carl: Hi carl, remember to review cumputerscience materials before the deadline!
+
+2025-10-12 17:55:12.167171 - Sent to Alice Johnson: Hi Alice Johnson, remember to review ACIT4420 - Problem Solving and Scripting materials before the deadline!
+
+2025-10-12 17:55:12.175076 - Sent to Bob Smith: Hi Bob Smith, remember to review ACIT4420 - Problem Solving and Scripting materials before the deadline!
+
+2025-10-12 17:55:12.175758 - Sent to Carol Williams: Hi Carol Williams, remember to review ACIT4420 - Problem Solving and Scripting materials before the deadline!
+
+2025-10-12 17:55:12.176633 - Sent to David Brown: Hi David Brown, remember to review ACIT4420 - Problem Solving and Scripting materials before the deadline!
+
+2025-10-12 17:55:12.177287 - Sent to Emma Davis: Hi Emma Davis, remember to review ACIT4420 - Problem Solving and Scripting materials before the deadline!
+
+2025-10-12 17:55:12.177803 - Sent to Erlen Myrilsen: Hi Erlen Myrilsen, remember to review Tysk materials before the deadline!
+
+2025-10-12 17:55:12.178258 - Sent to jorgen Matsen: Hi jorgen Matsen, remember to review History of kamras materials before the deadline!
+
+2025-10-12 17:55:12.178702 - Sent to Witney justine: Hi Witney justine, remember to review Political sciences materials before the deadline!
+
+2025-10-12 17:55:12.179158 - Sent to hauk Monsen: Hi hauk Monsen, remember to review Logistics materials before the deadline!
+
+2025-10-12 17:55:12.179600 - Sent to karl konrd: Hi karl konrd, remember to review Kongelig Hostorie materials before the deadline!
+
+2025-10-12 17:55:12.180029 - Sent to hakon: Hi hakon, remember to review statistcs materials before the deadline!
+
+2025-10-12 17:55:12.180454 - Sent to gan: Hi gan, remember to review tec101 materials before the deadline!
+
+2025-10-12 17:55:12.181110 - Sent to Mika Liam: Hi Mika Liam, remember to review biology materials before the deadline!
+
