@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: study_reminders
+Version: 0.1
+Summary: A package managing student study reminders
+Author: Mayen E
+Author-email: maywer2001@gmail.com
+Requires-Dist: schedule
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
+Dynamic: summary

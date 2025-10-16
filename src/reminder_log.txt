@@ -46,3 +46,31 @@
 
 2025-10-12 17:55:12.181110 - Sent to Mika Liam: Hi Mika Liam, remember to review biology materials before the deadline!
 
+2025-10-16 16:23:08.984518 - Sent to gan: Hi gan, remember to review tec101 materials before the deadline!
+
+2025-10-16 16:42:56.443303 - Sent to Alice Johnson: Hi Alice Johnson, remember to review ACIT4420 - Problem Solving and Scripting materials before the deadline!
+
+2025-10-16 16:42:56.443889 - Sent to Bob Smith: Hi Bob Smith, remember to review ACIT4420 - Problem Solving and Scripting materials before the deadline!
+
+2025-10-16 16:42:56.444389 - Sent to Carol Williams: Hi Carol Williams, remember to review ACIT4420 - Problem Solving and Scripting materials before the deadline!
+
+2025-10-16 16:42:56.444883 - Sent to David Brown: Hi David Brown, remember to review ACIT4420 - Problem Solving and Scripting materials before the deadline!
+
+2025-10-16 16:42:56.445444 - Sent to Emma Davis: Hi Emma Davis, remember to review ACIT4420 - Problem Solving and Scripting materials before the deadline!
+
+2025-10-16 16:42:56.445952 - Sent to Erlen Myrilsen: Hi Erlen Myrilsen, remember to review Tysk materials before the deadline!
+
+2025-10-16 16:42:56.446416 - Sent to jorgen Matsen: Hi jorgen Matsen, remember to review History of kamras materials before the deadline!
+
+2025-10-16 16:42:56.446877 - Sent to Witney justine: Hi Witney justine, remember to review Political sciences materials before the deadline!
+
+2025-10-16 16:42:56.447327 - Sent to hauk Monsen: Hi hauk Monsen, remember to review Logistics materials before the deadline!
+
+2025-10-16 16:42:56.447777 - Sent to karl konrd: Hi karl konrd, remember to review Kongelig Hostorie materials before the deadline!
+
+2025-10-16 16:42:56.448350 - Sent to hakon: Hi hakon, remember to review statistcs materials before the deadline!
+
+2025-10-16 16:42:56.449064 - Sent to gan: Hi gan, remember to review tec101 materials before the deadline!
+
+2025-10-16 16:42:56.449758 - Sent to Mika Liam: Hi Mika Liam, remember to review biology materials before the deadline!
+
