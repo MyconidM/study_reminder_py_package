@@ -1,5 +1,6 @@
 from setuptools import setup, find_packages
 
+# Used example provided in lab ModulesANDpackages.ipynb
 setup(
     name="study_reminders",
     version="0.1",

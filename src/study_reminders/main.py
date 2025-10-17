@@ -5,6 +5,7 @@ from study_reminders.logger import log_reminder
 from study_reminders.scheduler import schedule_reminders
 import threading
 
+# drew inspiration form ChatGBT for main structure and execturion
 
 def exit_option():
     print("Exiting the program.")
@@ -89,11 +90,12 @@ def run_scheduler_in_background(manager):
 
 
 def main():
-    # Load students from JSON
+    # Load students
     global manager
     manager = StudentsManager()
     
     # Start the scheduler in a separate thread in the background using the same manager
+    # Use of threding suggested by Copilot
     t = threading.Thread(target=run_scheduler_in_background, args=(manager,), daemon=True)
     t.start()
     print("Scheduler is now running. Reminders will be sent automatically.")

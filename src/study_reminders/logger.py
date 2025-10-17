@@ -4,7 +4,7 @@ import os
 
 def log_reminder(student, reminder):
     """Log a sent reminder with a timestamp to a file."""
-    # Get the directory where main.py is located (src folder)
+    # original path wasn't working so used os.path to fix it - sugested by Copilot
     current_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     log_file_path = os.path.join(current_dir, "reminder_log.txt")
     

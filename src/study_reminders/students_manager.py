@@ -5,6 +5,7 @@ import os
 
 class StudentsManager:
     """Class to manage student data with JSON storage."""
+    # Path to the JSON file wasn't working Copilot AI suggested the use of os.path to fix it
     def __init__(self, file_path="students.json"):
         base_dir = os.path.dirname(os.path.dirname(__file__))  # goes up to src/
         self.file_path = os.path.join(base_dir, "students.json")
@@ -22,7 +23,8 @@ class StudentsManager:
                 {"name": "Charlie", "email": "charlie@example.com", "course": "Physics", "preferred_time": "07:30 AM"}
             ]
 
-    def add_student(self, name, email, course, preferred_time="08:00 AM"):
+    # I changed default preferred_time to "08:00" becouse the AM/PM format caused issues
+    def add_student(self, name, email, course, preferred_time="08:00"):
         """Add a student and save to the JSON file."""
         student = {
             'name': name,
@@ -49,5 +51,5 @@ class StudentsManager:
 
     def list_students(self):
         """Print all students."""
-        for student in self.students:
+        for student in self.students: #Added \n to put them under each other
             print(f"Name: {student['name']}\nEmail: {student['email']}\nCourse: {student['course']}\nPreferred Time: {student['preferred_time']}\n")
